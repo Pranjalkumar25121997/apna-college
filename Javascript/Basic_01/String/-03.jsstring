@@ -1,0 +1,4 @@
+// toUpperCase and tolowerCase methods in strins :-
+let name = "Pranjal kumar"
+console.log(name.toUpperCase());
+console.log(name.toLowerCase());
