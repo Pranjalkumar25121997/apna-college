@@ -1,5 +1,9 @@
-let student = ["Pranjal","Devdat","Abhinav","Shgubham"]
+let student = ["Pranjal","Devdat","Abhinav","Shubham"]
 
-console.log(indeOf("Devdat"));
+console.log(student[2]);
 console.log(student.length);
+
+console.log(typeof(student));
+
+console.log(student.findIndex["Pranjal"]);
 
