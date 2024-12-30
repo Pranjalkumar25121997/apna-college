@@ -5,5 +5,4 @@ console.log(student.length);
 
 console.log(typeof(student));
 
-console.log(student.findIndex["Pranjal"]);
 
