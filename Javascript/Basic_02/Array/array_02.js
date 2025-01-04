@@ -5,3 +5,4 @@ console.table(fruits);
 fruits[10] = "papaya"
 console.log(fruits);
 
+
